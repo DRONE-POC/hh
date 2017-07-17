@@ -68,3 +68,4 @@ defaults:
       
   
 exclude: [_old_files]
+theme: jekyll-theme-cayman
